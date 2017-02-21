@@ -1,6 +1,6 @@
 ## Predicting Medical Claim Rejections
 
-##### I recently developed two machine learning algorithms for drchrono.
+##### I recently developed two machine learning algorithms for drchrono to help with their billing process.
 Some background on the topic can be found here:  
   
 https://sites.google.com/view/medicalrejects/home
