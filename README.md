@@ -5,4 +5,4 @@ Some background on the topic can be found here:
   
 https://sites.google.com/view/medicalrejects/home
 
-I'm hoping to push some code from the project up to github; but drchrono has not yet approved the code for public display. 
+I'm hoping to push some code from the project up to github; but first drchrono needs to approve the code for public display. 
