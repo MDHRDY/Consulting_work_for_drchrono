@@ -1,7 +1,6 @@
 ## Predicting Medical Claim Rejections
 
-###### I recently developed two machine learning algorithms for drchrono to predict whether medical claims will be accepted or rejected.  
-
+##### I recently developed two machine learning algorithms for drchrono.
 Some background on the topic can be found here:  
   
 https://sites.google.com/view/medicalrejects/home
